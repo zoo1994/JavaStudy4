@@ -1,11 +1,11 @@
 package com.sj.s5;
 
 public class Mygod {
-	private Mygod() {}
+	private static Mygod myGod;
 	
-	public static void makeGod() {
+	public static Mygod makeGod() {
 		//single ton
-		Mygod myGod = new Mygod();
+		if()
 		
 	}
 }
