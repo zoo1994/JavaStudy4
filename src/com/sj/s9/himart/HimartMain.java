@@ -1,9 +1,11 @@
 package com.sj.s9.himart;
 
+import com.sj.s8.game.Magition;
+
 public class HimartMain {
 	public static void main(String[] args) {
 		
-	
+	Magition m ;
 	Himart  hm  = new Himart();
 	Tv tv = new Tv();
 	Phone phone = new Phone();
